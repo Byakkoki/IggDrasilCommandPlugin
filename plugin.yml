@@ -1,0 +1,7 @@
+name: IggDrasilCommand
+version: 1.0-SNAPSHOT
+main: fr.ariouz.iggdrasilcommand.IggDrasilCommand
+authors: [ Byakko ]
+commands:
+  iggdrasilcommande:
+    description: Oui
